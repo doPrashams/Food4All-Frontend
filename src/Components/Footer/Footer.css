@@ -1,0 +1,22 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    right: 0; 
+   
+  }
+  
+  .made-with {
+    display: flex;
+    align-items: center;
+    font-size: 20px;
+    color: #080707;
+    
+  }
+  
+  .heart {
+    font-size: 4px;
+    color: rgb(240, 40, 40);
+    margin: 0 5px;
+  }
+  
+ 
